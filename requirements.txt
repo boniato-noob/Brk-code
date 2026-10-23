@@ -1,0 +1,2 @@
+# BIP39 validator dependencies
+mnemonic>=0.21
